@@ -1,0 +1,11 @@
+{
+  "name": "summit-solutions-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Summit Solutions marketing site with Vercel quote form endpoint.",
+  "dependencies": {
+    "googleapis": "^157.0.0",
+    "nodemailer": "^9.0.1",
+    "resend": "^4.6.0"
+  }
+}
