@@ -129,7 +129,7 @@ a {
 .hero-home {
   background:
     linear-gradient(115deg, rgba(8, 23, 36, 0.92) 0%, rgba(11, 39, 64, 0.84) 55%, rgba(21, 60, 91, 0.62) 100%),
-    url("public/images/hero-commercial.jpg") center/cover no-repeat;
+    url("public/images/team-window-hero.jpg") center/cover no-repeat;
   color: var(--white);
   padding: 6rem 0 5rem;
 }
@@ -650,6 +650,10 @@ a {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
+}
+
+.photo-grid-compact {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .photo-card {
