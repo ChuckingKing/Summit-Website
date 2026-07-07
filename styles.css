@@ -129,7 +129,7 @@ a {
 .hero-home {
   background:
     linear-gradient(115deg, rgba(8, 23, 36, 0.92) 0%, rgba(11, 39, 64, 0.84) 55%, rgba(21, 60, 91, 0.62) 100%),
-    url("assets/images/team-window-hero.jpg") center/cover no-repeat;
+    url("/assets/images/team-window-hero.jpg") center/cover no-repeat;
   color: var(--white);
   padding: 6rem 0 5rem;
 }
