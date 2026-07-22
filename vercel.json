@@ -1,3 +1,16 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.summitsolutionscleaning.com"
+        }
+      ],
+      "destination": "https://summitsolutionscleaning.com/$1",
+      "permanent": true
+    }
+  ]
 }
