@@ -633,6 +633,18 @@ a {
   background: var(--white);
 }
 
+.service-link-card {
+  color: inherit;
+  text-decoration: none;
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.service-link-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(214, 170, 66, 0.8);
+  box-shadow: 0 16px 34px rgba(8, 23, 36, 0.1);
+}
+
 .simple-card h3 {
   margin: 0 0 0.55rem;
   font-family: "Barlow Condensed", sans-serif;
