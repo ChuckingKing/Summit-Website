@@ -11,6 +11,17 @@
       ],
       "destination": "https://summitsolutionscleaning.com/$1",
       "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "summit-website-opal.vercel.app"
+        }
+      ],
+      "destination": "https://summitsolutionscleaning.com/$1",
+      "permanent": true
     }
   ]
 }
