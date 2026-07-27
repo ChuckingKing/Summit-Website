@@ -1,4 +1,20 @@
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+LLMs: https://summitsolutionscleaning.com/llms.txt
 Sitemap: https://summitsolutionscleaning.com/sitemap.xml
