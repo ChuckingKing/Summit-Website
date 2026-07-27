@@ -11,7 +11,8 @@ Last updated: July 23, 2026
 - Phone: 360-770-7441
 - Business type: Service-area business
 - Public address: Hidden / no storefront
-- Google review link: https://g.page/r/CaNOhWfMXhUsEBM/review
+- Branded review link: https://summitsolutionscleaning.com/review
+- Direct Google review link: https://g.page/r/CaNOhWfMXhUsEBM/review
 
 ## Core Services To Use Consistently
 
@@ -96,7 +97,7 @@ Commercial cleaning, janitorial service, Airbnb turnover cleaning, window cleani
 
 Use this after a completed job:
 
-Hi [Name], thanks again for choosing Summit Solutions. If you were happy with the cleaning, would you mind leaving us a quick Google review? It helps local businesses find us: https://g.page/r/CaNOhWfMXhUsEBM/review
+Hi [Name], thanks again for choosing Summit Solutions. If you were happy with the cleaning, would you mind leaving us a quick Google review? It helps local businesses find us: https://summitsolutionscleaning.com/review
 
 ## Review Request Email
 
@@ -106,7 +107,7 @@ Hi [Name],
 
 Thanks again for working with Summit Solutions. If you were happy with the cleaning, a quick Google review would mean a lot and helps other local businesses know what to expect from us.
 
-Review link: https://g.page/r/CaNOhWfMXhUsEBM/review
+Review link: https://summitsolutionscleaning.com/review
 
 Thank you,
 Summit Solutions

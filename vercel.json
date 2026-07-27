@@ -22,6 +22,11 @@
       ],
       "destination": "https://summitsolutionscleaning.com/$1",
       "permanent": true
+    },
+    {
+      "source": "/review",
+      "destination": "https://g.page/r/CaNOhWfMXhUsEBM/review",
+      "permanent": false
     }
   ]
 }
